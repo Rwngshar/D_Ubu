@@ -1,0 +1,11 @@
+
+
+Usage: caa [OPTION]...
+
+Options:
+ -d, --daemon     start in daemon mode
+ -s, --stop       stop running daemon
+ -v, --verbose    output debug information
+ -l, --log=FILE   log into FILE
+ -h, --help       display list of parameters
+ -V, --version    print program version
